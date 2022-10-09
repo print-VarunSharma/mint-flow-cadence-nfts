@@ -1,0 +1,21 @@
+{
+  "name": "mint-flow-nft",
+  "version": "1.0.0",
+  "description": "First flow NFT with Cadence smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft",
+    "mint",
+    "flow",
+    "cadence",
+    "smart",
+    "contracts",
+    "dapper",
+    "dapperlabs"
+  ],
+  "author": "Varun D. Sharma",
+  "license": "ISC"
+}
